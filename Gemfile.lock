@@ -1,0 +1,17 @@
+GIT
+  remote: git@github.com:vasinov/jruby_mahout.git
+  revision: 7fbe250d64e01f3ee240bdc7a209950b95467bfd
+  branch: dev
+  specs:
+    jruby_mahout (0.2.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  jruby_mahout!
